@@ -1,0 +1,48 @@
+----------- Repo##Dashboard##GetAllBuoys 9/30/2024 1:35:55 PM -----------------
+
+
+
+Log Written Date: 9/30/2024 1:35:55 PM
+
+Error Line No : ine 138
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_GetMobAllBuoysList' expects parameter '@is_all', which was not supplied.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 9/30/2024 1:36:05 PM -----------------
+
+
+
+Log Written Date: 9/30/2024 1:36:05 PM
+
+Error Line No : ine 138
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_GetMobAllBuoysList' expects parameter '@is_all', which was not supplied.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

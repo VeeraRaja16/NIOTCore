@@ -1,0 +1,6 @@
+step by step deployment
+---------------------------
+change the connections strings 
+add-migration 
+uipdate-database 
+PUblish.

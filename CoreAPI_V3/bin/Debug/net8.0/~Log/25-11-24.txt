@@ -1,0 +1,22 @@
+----------- Repo##Dashboard##GetAllBuoys 11/25/2024 6:55:09 PM -----------------
+
+
+
+Log Written Date: 11/25/2024 6:55:09 PM
+
+Error Line No : ine 238
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

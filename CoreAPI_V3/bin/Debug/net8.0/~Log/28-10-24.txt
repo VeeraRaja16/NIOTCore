@@ -1,0 +1,132 @@
+----------- Repo##Dashboard##GetAllBuoys 10/28/2024 11:11:20 AM -----------------
+
+
+
+Log Written Date: 10/28/2024 11:11:20 AM
+
+Error Line No : ine 381
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'color_code' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/28/2024 11:25:08 AM -----------------
+
+
+
+Log Written Date: 10/28/2024 11:25:08 AM
+
+Error Line No : ine 381
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'color_code' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/28/2024 11:38:29 AM -----------------
+
+
+
+Log Written Date: 10/28/2024 11:38:29 AM
+
+Error Line No : ine 386
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'color_code' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/28/2024 11:40:07 AM -----------------
+
+
+
+Log Written Date: 10/28/2024 11:40:07 AM
+
+Error Line No : ine 386
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'dispaly_dep_latitude' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/28/2024 11:40:12 AM -----------------
+
+
+
+Log Written Date: 10/28/2024 11:40:12 AM
+
+Error Line No : ine 386
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'dispaly_dep_latitude' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/28/2024 11:41:06 AM -----------------
+
+
+
+Log Written Date: 10/28/2024 11:41:06 AM
+
+Error Line No : ine 386
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 's_type_s_id' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

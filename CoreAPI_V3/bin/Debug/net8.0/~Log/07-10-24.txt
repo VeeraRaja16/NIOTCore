@@ -1,0 +1,404 @@
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/7/2024 11:52:15 AM -----------------
+
+
+
+Log Written Date: 10/7/2024 11:52:15 AM
+
+Error Line No : line 42
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 11:52:58 AM -----------------
+
+
+
+Log Written Date: 10/7/2024 11:52:58 AM
+
+Error Line No : ine 262
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetLink 10/7/2024 1:18:50 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 1:18:50 PM
+
+Error Line No : ine 429
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure ''.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetLink 10/7/2024 1:19:44 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 1:19:44 PM
+
+Error Line No : ine 429
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure ''.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 5:32:08 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 5:32:08 PM
+
+Error Line No : ine 201
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetAllBuoysList 10/7/2024 5:32:09 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 5:32:09 PM
+
+Error Line No : line 67
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 5:33:55 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 5:33:55 PM
+
+Error Line No : ine 201
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetAllBuoysList 10/7/2024 5:34:05 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 5:34:05 PM
+
+Error Line No : line 67
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 5:37:42 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 5:37:42 PM
+
+Error Line No : ine 201
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetAllBuoysList 10/7/2024 5:37:45 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 5:37:45 PM
+
+Error Line No : line 67
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 6:19:32 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 6:19:32 PM
+
+Error Line No : ine 201
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetAllBuoysList 10/7/2024 6:19:57 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 6:19:57 PM
+
+Error Line No : line 67
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 6:23:49 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 6:23:49 PM
+
+Error Line No : ine 201
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetAllBuoysList 10/7/2024 6:25:45 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 6:25:43 PM
+
+Error Line No : line 67
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 7:05:45 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 7:05:45 PM
+
+Error Line No : is_all)
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 7:07:25 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 7:07:24 PM
+
+Error Line No : is_all)
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 7:08:18 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 7:08:18 PM
+
+Error Line No : is_all)
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 10/7/2024 7:17:22 PM -----------------
+
+
+
+Log Written Date: 10/7/2024 7:17:22 PM
+
+Error Line No : ine 200
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

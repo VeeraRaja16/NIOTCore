@@ -1,0 +1,66 @@
+----------- Controller##Auth##UserLocale 10/9/2024 1:33:44 PM -----------------
+
+
+
+Log Written Date: 10/9/2024 1:33:44 PM
+
+Error Line No : ine 150
+
+Error Message: HttpRequestException
+
+Exception Type: System.Net.Http.HttpRequestException
+
+Error Location : No such host is known. (api.ipify.org:443)
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Auth##UserLocale 10/9/2024 1:34:55 PM -----------------
+
+
+
+Log Written Date: 10/9/2024 1:34:55 PM
+
+Error Line No : ine 150
+
+Error Message: HttpRequestException
+
+Exception Type: System.Net.Http.HttpRequestException
+
+Error Location : No such host is known. (api.ipify.org:443)
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Auth##UserLocale 10/9/2024 1:38:49 PM -----------------
+
+
+
+Log Written Date: 10/9/2024 1:38:49 PM
+
+Error Line No : ine 150
+
+Error Message: HttpRequestException
+
+Exception Type: System.Net.Http.HttpRequestException
+
+Error Location : No such host is known. (api.ipify.org:443)
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

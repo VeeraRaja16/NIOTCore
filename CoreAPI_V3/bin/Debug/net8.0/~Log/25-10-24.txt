@@ -1,0 +1,110 @@
+----------- Repo##GetBuoyInfoDateRangeAsync## 10/25/2024 12:09:54 PM -----------------
+
+
+
+Log Written Date: 10/25/2024 12:09:54 PM
+
+Error Line No : ine 220
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'WaterLevel1' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##GetBuoyInfoDateRangeAsync## 10/25/2024 12:10:37 PM -----------------
+
+
+
+Log Written Date: 10/25/2024 12:10:37 PM
+
+Error Line No : ine 220
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'WaterLevel1' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##GetBuoyInfoDateRangeAsync## 10/25/2024 12:10:58 PM -----------------
+
+
+
+Log Written Date: 10/25/2024 12:10:58 PM
+
+Error Line No : ine 220
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'WaterLevel1' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##GetBuoyInfoDateRangeAsync## 10/25/2024 12:11:23 PM -----------------
+
+
+
+Log Written Date: 10/25/2024 12:11:23 PM
+
+Error Line No : ine 220
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'AirHumidity' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##GetBuoyInfoDateRangeAsync## 10/25/2024 12:33:47 PM -----------------
+
+
+
+Log Written Date: 10/25/2024 12:33:47 PM
+
+Error Line No : e date)
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The required column 'WaterLevel1' was not present in the results of a 'FromSql' operation.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

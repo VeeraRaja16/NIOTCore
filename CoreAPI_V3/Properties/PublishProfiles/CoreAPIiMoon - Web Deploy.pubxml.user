@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAi3Wqm2qDd0yZfFZ70hdEIgAAAAACAAAAAAAQZgAAAAEAACAAAADfrI5MKq1XEuPfBhkRxBZ/6x++MJmcSbM6IjTWLMA32AAAAAAOgAAAAAIAACAAAADEGRkMflOgBcI0tQID/VTcF1nNP7Yz+vUqOsTRy4TsQ4AAAACNeRaBXx5tfdLBs1USPN5zhtoghH1LzR+fAIF9D7W4vjpflxQsdvw9zj+BX6y49clnUpp3C3RsMoUPUzf28j7uS1K6Vt9tyJHyx1IoIP2reTatQ4Wh9KJz7Ui+b/5xARtIWSKuDHIGXJD6hOgkEmzEdu5rR/vZrAfX0cnP8gfniUAAAABmA36RrPSNjr9W0AgRl07+eqNOAHclL4VZS++Sor0xrSS3NsdCawwskon35tnfoV07RXgWDk/ly0/uj645E3ji</EncryptedPassword>
+    <History>True|2024-12-27T10:18:29.7136779Z;True|2024-12-27T15:37:35.5859502+05:30;True|2024-12-27T12:06:18.0291364+05:30;True|2024-12-27T11:52:51.6860901+05:30;True|2024-12-27T11:29:09.0452082+05:30;True|2024-12-27T11:25:08.3989923+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:imoondbserver.database.windows.net,1433%3bInitial Catalog=ADDRESS_MOBBUOYDB_V1%3bPersist Security Info=False%3bUser ID=adminSql%3bPassword=admin%40123%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,704 @@
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 11:36:07 AM -----------------
+
+
+
+Log Written Date: 10/21/2024 11:36:07 AM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytyppe
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 11:36:42 AM -----------------
+
+
+
+Log Written Date: 10/21/2024 11:36:42 AM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 12:09:57 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 12:09:57 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytyppe
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 12:12:29 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 12:12:29 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytyppe
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 1:07:36 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 1:07:36 PM
+
+Error Line No : e date)
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytype
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 1:10:57 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 1:10:57 PM
+
+Error Line No : e date)
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytype
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 4:40:28 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 4:40:28 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : water_level1
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 4:54:28 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 4:54:28 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytyppe
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 4:55:17 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 4:55:17 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : water_level1
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:09:04 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:09:04 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:17:46 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:17:46 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:18:54 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:18:54 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:20:55 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:20:55 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytype
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:22:52 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:22:52 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : water_level1
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:23:59 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:23:59 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytype
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:29:55 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:29:55 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytType
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 5:30:33 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 5:30:33 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytTTType
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:35:55 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:35:55 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:36:28 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:36:28 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytype
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:39:52 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:39:52 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytype
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:41:22 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:41:22 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : buoytype
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:42:58 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:42:58 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:43:08 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:43:08 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:43:23 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:43:23 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:43:58 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:43:58 PM
+
+Error Line No : e date)
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:45:51 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:45:51 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:47:29 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:47:29 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 6:48:32 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 6:48:32 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 7:44:37 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 7:44:37 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 7:51:37 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 7:51:37 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 7:53:27 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 7:53:27 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/21/2024 7:57:44 PM -----------------
+
+
+
+Log Written Date: 10/21/2024 7:57:44 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,22 @@
+----------- Controller##Dashboard##GetBuoyMinMaxParamValues 11/5/2024 10:41:20 AM -----------------
+
+
+
+Log Written Date: 11/5/2024 10:41:20 AM
+
+Error Line No : ine 151
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

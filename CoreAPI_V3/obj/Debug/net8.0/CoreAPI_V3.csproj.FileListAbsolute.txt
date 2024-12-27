@@ -1,0 +1,961 @@
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\appsettings.json
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.exe
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.deps.json
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.runtimeconfig.json
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.AssemblyReference.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfoInputs.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfo.cs
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.CoreCompileInputs.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.CoreAPI_V3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\scopedcss\bundle\CoreAPI_V3.styles.css
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.Up2Date
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\refint\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.genruntimeconfig.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\ref\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Owin.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Management.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\16-09-2024(Core API)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.exe
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.deps.json
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.runtimeconfig.json
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Owin.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Management.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfo.cs
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.CoreAPI_V3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreAPI_V3.props
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreAPI_V3.props
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreAPI_V3.props
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\scopedcss\bundle\CoreAPI_V3.styles.css
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.Up2Date
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\refint\CoreAPI_V3.dll
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.genruntimeconfig.cache
+C:\Users\HP\Downloads\New folder\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\ref\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\appsettings.json
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.exe
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.deps.json
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.runtimeconfig.json
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Owin.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Management.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.AssemblyReference.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfoInputs.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfo.cs
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.CoreCompileInputs.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.CoreAPI_V3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\scopedcss\bundle\CoreAPI_V3.styles.css
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.Up2Date
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\refint\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.genruntimeconfig.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\CoreAPI_V3(with Admin)\CoreAPI_V3\CoreAPI_V3\obj\Debug\net8.0\ref\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.AssemblyReference.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfoInputs.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfo.cs
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.CoreCompileInputs.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\refint\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\appsettings.json
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.exe
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.deps.json
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.runtimeconfig.json
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.pdb
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Owin.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Management.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.CoreAPI_V3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreAPI_V3.props
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\scopedcss\bundle\CoreAPI_V3.styles.css
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.Up2Date
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.genruntimeconfig.cache
+C:\Users\way2smile\Desktop\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\ref\CoreAPI_V3.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\appsettings.Development.json
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\appsettings.json
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.exe
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.deps.json
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.runtimeconfig.json
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.pdb
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Azure.Core.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Azure.Identity.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Humanizer.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Owin.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.CodeDom.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Management.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Text.Json.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.AssemblyReference.cache
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.GeneratedMSBuildEditorConfig.editorconfig
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfoInputs.cache
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfo.cs
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.CoreCompileInputs.cache
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cs
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cache
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.build.json
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.development.json
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.CoreAPI_V3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreAPI_V3.props
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreAPI_V3.props
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreAPI_V3.props
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\scopedcss\bundle\CoreAPI_V3.styles.css
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.Up2Date
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\refint\CoreAPI_V3.dll
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.pdb
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.genruntimeconfig.cache
+D:\NIOT Mob app\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\ref\CoreAPI_V3.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\appsettings.Development.json
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\appsettings.json
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.exe
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.deps.json
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.runtimeconfig.json
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\CoreAPI_V3.pdb
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Azure.Core.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Azure.Identity.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Humanizer.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Owin.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.CodeDom.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Management.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Memory.Data.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Text.Json.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.AssemblyReference.cache
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.GeneratedMSBuildEditorConfig.editorconfig
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfoInputs.cache
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.AssemblyInfo.cs
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.CoreCompileInputs.cache
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cs
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.MvcApplicationPartsAssemblyInfo.cache
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.build.json
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.development.json
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.CoreAPI_V3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreAPI_V3.props
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreAPI_V3.props
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreAPI_V3.props
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\scopedcss\bundle\CoreAPI_V3.styles.css
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.csproj.Up2Date
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\refint\CoreAPI_V3.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.pdb
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\CoreAPI_V3.genruntimeconfig.cache
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\obj\Debug\net8.0\ref\CoreAPI_V3.dll
+D:\iMoon\iMoon Core (Final)\CoreAPI_V3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll

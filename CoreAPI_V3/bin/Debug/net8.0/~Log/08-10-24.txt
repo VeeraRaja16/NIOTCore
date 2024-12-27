@@ -1,0 +1,66 @@
+----------- Controller##Auth##Login 10/8/2024 1:08:43 PM -----------------
+
+
+
+Log Written Date: 10/8/2024 1:08:43 PM
+
+Error Line No : line 76
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 10/8/2024 1:30:10 PM -----------------
+
+
+
+Log Written Date: 10/8/2024 1:30:10 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Auth##Login 10/8/2024 7:28:59 PM -----------------
+
+
+
+Log Written Date: 10/8/2024 7:28:59 PM
+
+Error Line No : line 68
+
+Error Message: JsonReaderException
+
+Exception Type: Newtonsoft.Json.JsonReaderException
+
+Error Location : Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

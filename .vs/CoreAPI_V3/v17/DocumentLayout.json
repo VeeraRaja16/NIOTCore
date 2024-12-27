@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iMoon\\iMoon Core (Final)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\commonmethods\\commonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\commonmethods\\commonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\repository\\dashboardrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\repository\\dashboardrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\repository\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\repository\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\coreapi_v3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\coreapi_v3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\coreapi_v3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\coreapi_v3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Migrations\\20241125144603_Initial22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreAPI_V3\\Migrations\\20241125144603_Initial22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Migrations\\20241125144539_Initial22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreAPI_V3\\Migrations\\20241125144539_Initial22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\models\\contextmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\models\\contextmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\repository\\getlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\repository\\getlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\repository\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\repository\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\interface\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\interface\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\interface\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\interface\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007095351_addAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Suthan\\DotNet\\Projects\\Workspace\\Niot Address Source Code\\address_store\\W2SLIB\\SendEmails\\W2S_SendEmails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007052036_addTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007051921_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007051432_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927071115_IdTokenAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927065609_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927065339_addUserToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927064420_Intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|d:\\imoon\\imoon core (final)\\coreapi_v3\\coreapi_v3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9627AE4F-622A-4828-9C0C-C208BDD1B820}|CoreAPI_V3\\CoreAPI_V3.csproj|solutionrelative:coreapi_v3\\coreapi_v3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\way2smile\\AppData\\Local\\Temp\\.vsdbgsrc\\b673b2cdffc76f4f3cfcaa2eae0ab3202c0abb5ea3b553ba248af3f99fb54762\\LinqHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Context\\StoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreAPI_V3\\Context\\StoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Context\\BuoyContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreAPI_V3\\Context\\BuoyContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 555,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\appsettings.json",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\appsettings.json",
+              "RelativeToolTip": "CoreAPI_V3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T05:08:24.715Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Program.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Program.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Program.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Program.cs",
+              "ViewState": "AQIAAGABAAAAAAAAAAAAAGoBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:48:49.787Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAIwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:22:21.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwG0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:07:29.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardRepo.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\DashboardRepo.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Repository\\DashboardRepo.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\DashboardRepo.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Repository\\DashboardRepo.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:07:22.37Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonHelper.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CommonMethods\\CommonHelper.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\CommonMethods\\CommonHelper.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CommonMethods\\CommonHelper.cs",
+              "RelativeToolTip": "CoreAPI_V3\\CommonMethods\\CommonHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:42:53.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CoreAPI_V3\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:07:34.863Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241125144603_Initial22.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Migrations\\20241125144603_Initial22.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Migrations\\20241125144603_Initial22.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Migrations\\20241125144603_Initial22.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Migrations\\20241125144603_Initial22.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:46:03.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241125144539_Initial22.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Migrations\\20241125144539_Initial22.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Migrations\\20241125144539_Initial22.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Migrations\\20241125144539_Initial22.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Migrations\\20241125144539_Initial22.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:45:39.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardModel.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Models\\DashboardModel.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Models\\DashboardModel.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Models\\DashboardModel.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Models\\DashboardModel.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAASwF4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:08:36.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContextModel.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Models\\ContextModel.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Models\\ContextModel.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Models\\ContextModel.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Models\\ContextModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:58:08.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoreAPI_V3",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CoreAPI_V3.csproj",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\CoreAPI_V3.csproj",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CoreAPI_V3.csproj",
+              "RelativeToolTip": "CoreAPI_V3\\CoreAPI_V3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T14:20:07.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Repository\\AdminRepository.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Repository\\AdminRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:32:54.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\LoggerService.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Repository\\LoggerService.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\LoggerService.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Repository\\LoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:42:03.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoreAPI_V3.http",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CoreAPI_V3.http",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\CoreAPI_V3.http",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CoreAPI_V3.http",
+              "RelativeToolTip": "CoreAPI_V3\\CoreAPI_V3.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-23T10:46:28.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\appsettings.Development.json",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\appsettings.Development.json",
+              "RelativeToolTip": "CoreAPI_V3\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T10:46:25.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\EmailService.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Repository\\EmailService.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\EmailService.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Repository\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:41:31.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetLocation.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\GetLocation.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Repository\\GetLocation.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\GetLocation.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Repository\\GetLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:56:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:32:55.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoreAPI_V3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T13:58:56.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:32:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Interface\\ILoggerService.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\ILoggerService.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Interface\\ILoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:40:50.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Interface\\IEmailService.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Interface\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:41:09.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Interface\\IAdminRepository.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Interface\\IAdminRepository.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Interface\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:29:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\DTO\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\DTO\\AuthDTO.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\DTO\\AuthDTO.cs",
+              "RelativeToolTip": "CoreAPI_V3\\DTO\\AuthDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:34:06.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241007095351_addAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007095351_addAdmin.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007095351_addAdmin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:53:52.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "W2S_SendEmails.cs",
+              "DocumentMoniker": "E:\\Suthan\\DotNet\\Projects\\Workspace\\Niot Address Source Code\\address_store\\W2SLIB\\SendEmails\\W2S_SendEmails.cs",
+              "ToolTip": "E:\\Suthan\\DotNet\\Projects\\Workspace\\Niot Address Source Code\\address_store\\W2SLIB\\SendEmails\\W2S_SendEmails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:59:12.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241007051921_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007051921_Initial.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007051921_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:19:21.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241007051432_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007051432_Initial.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007051432_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:14:33.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241007052036_addTable.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007052036_addTable.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\CoreAPI_V3(with Admin)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20241007052036_addTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:20:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240927071115_IdTokenAdded.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927071115_IdTokenAdded.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927071115_IdTokenAdded.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:11:15.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240927065609_second.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927065609_second.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927065609_second.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:56:09.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240927065339_addUserToDb.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927065339_addUserToDb.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927065339_addUserToDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:53:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240927064420_Intial.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927064420_Intial.cs",
+              "ToolTip": "C:\\Users\\way2smile\\Desktop\\NIOT Mob app\\16-09-2024(Core API)\\CoreAPI_V3\\CoreAPI_V3\\Migrations\\20240927064420_Intial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:44:20.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LinqHelper.cs",
+              "DocumentMoniker": "C:\\Users\\way2smile\\AppData\\Local\\Temp\\.vsdbgsrc\\b673b2cdffc76f4f3cfcaa2eae0ab3202c0abb5ea3b553ba248af3f99fb54762\\LinqHelper.cs",
+              "ToolTip": "C:\\Users\\way2smile\\AppData\\Local\\Temp\\.vsdbgsrc\\b673b2cdffc76f4f3cfcaa2eae0ab3202c0abb5ea3b553ba248af3f99fb54762\\LinqHelper.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAIBJwBsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:20:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CoreAPI_V3.csproj",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CoreAPI_V3.csproj",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\CoreAPI_V3.csproj",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\CoreAPI_V3.csproj",
+              "RelativeToolTip": "CoreAPI_V3\\CoreAPI_V3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T10:07:05.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Context\\StoreContext.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Context\\StoreContext.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Context\\StoreContext.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Context\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:30:12.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BuoyContext.cs",
+              "DocumentMoniker": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Context\\BuoyContext.cs",
+              "RelativeDocumentMoniker": "CoreAPI_V3\\Context\\BuoyContext.cs",
+              "ToolTip": "D:\\iMoon\\iMoon Core (Final)\\CoreAPI_V3\\Context\\BuoyContext.cs",
+              "RelativeToolTip": "CoreAPI_V3\\Context\\BuoyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:29:49.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

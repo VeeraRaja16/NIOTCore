@@ -1,0 +1,48 @@
+----------- Controller##Dashboard##GetBuoyInfoDateRange 06-10-2024 19:47:18 -----------------
+
+
+
+Log Written Date: 06-10-2024 19:47:18
+
+Error Line No : line 42
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 06-10-2024 19:48:02 -----------------
+
+
+
+Log Written Date: 06-10-2024 19:48:02
+
+Error Line No : ine 262
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

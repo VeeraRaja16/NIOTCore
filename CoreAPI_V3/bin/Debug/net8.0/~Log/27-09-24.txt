@@ -1,0 +1,24 @@
+----------- Controller##Dashboard##GetBuoyInfoDateRange 9/27/2024 1:54:12 PM -----------------
+
+
+
+Log Written Date: 9/27/2024 1:54:12 PM
+
+Error Line No : ine 107
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

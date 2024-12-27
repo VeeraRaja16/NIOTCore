@@ -1,0 +1,242 @@
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 3:17:23 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 3:17:23 PM
+
+Error Line No : line 38
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String '2024-12-2303:00:00:000' was not recognized as a valid DateTime.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 3:17:46 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 3:17:46 PM
+
+Error Line No : line 38
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String '2024-12-2303:00:00' was not recognized as a valid DateTime.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 3:19:33 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 3:19:33 PM
+
+Error Line No : line 38
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String '2024-12-23 00:00:00:000' was not recognized as a valid DateTime.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 3:23:05 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 3:23:05 PM
+
+Error Line No : g time)
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String '2024-12-23 00:00:00:000' was not recognized as a valid DateTime.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 3:24:36 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 3:24:36 PM
+
+Error Line No : g time)
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String '2024-12-23 00:00:00:000' was not recognized as a valid DateTime.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 3:49:15 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 3:49:15 PM
+
+Error Line No : g time)
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String '2024-12-23 21:00:00:000' was not recognized as a valid DateTime.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 12/24/2024 4:49:32 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 4:49:32 PM
+
+Error Line No : ine 239
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 5:13:17 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 5:13:17 PM
+
+Error Line No : line 38
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Error converting data type nvarchar to date.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 5:34:10 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 5:34:10 PM
+
+Error Line No : g time)
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Error converting data type nvarchar to date.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 5:37:17 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 5:37:17 PM
+
+Error Line No : g time)
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Error converting data type nvarchar to date.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/24/2024 5:38:40 PM -----------------
+
+
+
+Log Written Date: 12/24/2024 5:38:40 PM
+
+Error Line No : g time)
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

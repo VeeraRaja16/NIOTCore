@@ -1,0 +1,264 @@
+----------- Repo##Dashboard##GetBuoyDataNew 12/23/2024 4:28:20 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:28:20 PM
+
+Error Line No : ine 294
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetBuoyStatus_NEW'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetTotalBuoyDataNews 12/23/2024 4:28:22 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:28:22 PM
+
+Error Line No : ine 337
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetBuoyStatusTotal_NEW'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetBuoyDataNew 12/23/2024 4:28:34 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:28:34 PM
+
+Error Line No : ine 294
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetBuoyStatus_NEW'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetTotalBuoyDataNews 12/23/2024 4:28:39 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:28:39 PM
+
+Error Line No : ine 337
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetBuoyStatusTotal_NEW'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyMinMaxParamValues 12/23/2024 4:29:10 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:29:10 PM
+
+Error Line No : ine 146
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 12/23/2024 4:29:31 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:29:31 PM
+
+Error Line No : ine 165
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetMob_AllBuoysStatus'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetAllBuoys 12/23/2024 4:30:08 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:30:08 PM
+
+Error Line No : ine 165
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetMob_AllBuoysStatus'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetBuoyDataNew 12/23/2024 4:30:17 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:30:17 PM
+
+Error Line No : ine 294
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetBuoyStatus_NEW'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Repo##Dashboard##GetTotalBuoyDataNews 12/23/2024 4:30:18 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:30:18 PM
+
+Error Line No : ine 337
+
+Error Message: SqlException
+
+Exception Type: Microsoft.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_GetBuoyStatusTotal_NEW'.
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/23/2024 4:49:13 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:49:13 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/23/2024 4:49:24 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 4:49:24 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+----------- Controller##Dashboard##GetBuoyInfoDateRange 12/23/2024 5:04:10 PM -----------------
+
+
+
+Log Written Date: 12/23/2024 5:04:10 PM
+
+Error Line No : line 38
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : stationid
+
+Error Page Url: Name:CoreAPI_V3
+There are no context policies.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
